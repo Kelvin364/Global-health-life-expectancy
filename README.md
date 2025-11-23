@@ -232,6 +232,15 @@ The app validates all inputs before sending to API:
 
 
 ## Model Performance
+## Data sets
+
+
+<img width="1590" height="490" alt="download (16)" src="https://github.com/user-attachments/assets/d2ef64ff-96bc-402f-a36b-6334316d6b95" />
+<img width="1466" height="1361" alt="image" src="https://github.com/user-attachments/assets/acf41480-f2bf-4f61-8ab6-6e783d35b9ea" />
+<img width="1990" height="1199" alt="image" src="https://github.com/user-attachments/assets/c445d2af-af7e-4034-a9e4-d9cf69d92971" />
+
+
+
 
 ### **Comparison of Models**
 
@@ -436,6 +445,7 @@ This project is for educational purposes. Dataset from WHO is publicly available
 - **FastAPI** - Modern web framework
 - **Flutter** - Cross-platform mobile framework
 - **Render** - Cloud deployment platform
+
 
 
 
