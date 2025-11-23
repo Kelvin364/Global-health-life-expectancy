@@ -381,7 +381,7 @@ The app validates all inputs before sending to API:
 
 
 
-## 🤝 Contributing
+##  Contributing
 
 This is an academic project. For questions or suggestions:
 
@@ -409,6 +409,7 @@ This project is for educational purposes. Dataset from WHO is publicly available
 - **FastAPI** - Modern web framework
 - **Flutter** - Cross-platform mobile framework
 - **Render** - Cloud deployment platform
+
 
 
 
