@@ -1,6 +1,7 @@
 #  Life Expectancy Prediction System
 ## AI-Powered Global Health Analytics
 Demo video :  **[LOOM VIDEO DEMO](#)** *(https://www.loom.com/share/967f68c7eef54d1a8bc030468eeab39d)*
+
 [![API Status](https://img.shields.io/badge/API-Live-success)](https://global-health-life-expectancy-1.onrender.com/docs)
 [![Model Accuracy](https://img.shields.io/badge/R²-0.96-blue)](https://global-health-life-expectancy-1.onrender.com/docs)
 [![Platform](https://img.shields.io/badge/Platform-Flutter-02569B?logo=flutter)](https://flutter.dev)
@@ -409,6 +410,7 @@ This project is for educational purposes. Dataset from WHO is publicly available
 - **FastAPI** - Modern web framework
 - **Flutter** - Cross-platform mobile framework
 - **Render** - Cloud deployment platform
+
 
 
 
