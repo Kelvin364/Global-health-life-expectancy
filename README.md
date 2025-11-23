@@ -233,7 +233,14 @@ The app validates all inputs before sending to API:
 
 ## Model Performance
 ## Data sets
+Dataset: Life Expectancy (WHO) - Global Health Observatory
 
+Source: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+
+I chose the Life Expectancy (WHO) dataset because it aligns directly with my mission and my grand challenge in improving global health outcomes. The dataset contains health, economic, and social indicators from countries around the world, making it ideal for understanding what factors influence how long people live.
+
+This dataset contain 2938 observations
+Features: 22 columns from 193 countries
 
 <img width="1590" height="490" alt="download (16)" src="https://github.com/user-attachments/assets/d2ef64ff-96bc-402f-a36b-6334316d6b95" />
 <img width="1466" height="1361" alt="image" src="https://github.com/user-attachments/assets/acf41480-f2bf-4f61-8ab6-6e783d35b9ea" />
@@ -445,6 +452,7 @@ This project is for educational purposes. Dataset from WHO is publicly available
 - **FastAPI** - Modern web framework
 - **Flutter** - Cross-platform mobile framework
 - **Render** - Cloud deployment platform
+
 
 
 
