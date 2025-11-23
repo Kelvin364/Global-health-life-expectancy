@@ -22,11 +22,37 @@ This system addresses the challenge of predicting life expectancy across countri
  **[https://global-health-life-expectancy-1.onrender.com/docs](https://global-health-life-expectancy-1.onrender.com/docs)**
 
 ### **API Endpoints:**
-| Root | GET | API information | [/](https://global-health-life-expectancy-1.onrender.com/) |
-| Health Check | GET | Verify API & model status | [/health](https://global-health-life-expectancy-1.onrender.com/health) |
-| Feature Info | GET | List all input features & ranges | [/feature-info](https://global-health-life-expectancy-1.onrender.com/feature-info) |
+1. Root Endpoint
 
-| **Predict** | **POST** | **Get life expectancy prediction** | [/predict](https://global-health-life-expectancy-1.onrender.com/predict) 
+Method: GET
+
+Path: /
+
+Description: Returns basic API information.
+
+2. Health Check
+
+Method: GET
+
+Path: /health
+
+Description: Confirms that the API and prediction model are running correctly.
+
+3. Feature Information
+
+Method: GET
+
+Path: /feature-info
+
+Description: Provides a list of all input features and their expected ranges or descriptions.
+
+4. Prediction Endpoint
+
+Method: POST
+
+Path: /predict
+
+Description: Generates a life expectancy prediction based on the input data.
 
 ### **Quick API Test:**
 
@@ -410,6 +436,7 @@ This project is for educational purposes. Dataset from WHO is publicly available
 - **FastAPI** - Modern web framework
 - **Flutter** - Cross-platform mobile framework
 - **Render** - Cloud deployment platform
+
 
 
 
