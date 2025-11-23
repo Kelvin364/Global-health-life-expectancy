@@ -391,23 +391,24 @@ This is an academic project. For questions or suggestions:
 
 
 
-## 📄 License
+##License
 
 This project is for educational purposes. Dataset from WHO is publicly available.
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Kelvin Rwihimba**
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **World Health Organization (WHO)** - Dataset provider
 - **Scikit-learn** - Machine learning framework
 - **FastAPI** - Modern web framework
 - **Flutter** - Cross-platform mobile framework
 - **Render** - Cloud deployment platform
+
 
 
